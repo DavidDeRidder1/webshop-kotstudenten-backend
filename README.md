@@ -1,10 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/snPWRHYg)
-
 # Examenopdracht Web Services
-
 - Student: David De Ridder
-- Studentennummer: 202293151
-- E-mailadres: <mailto:david.deridder@student.hogent.be>
+- E-mailadres: <mailto:davidderidder2404@gmail.com>
 
 ## Vereisten
 
@@ -13,12 +9,11 @@ Ik verwacht dat volgende software reeds geïnstalleerd is:
 - [NodeJS](https://nodejs.org)
 - [Yarn](https://yarnpkg.com)
 - [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
-- ...
 
 ## Opstarten
 
-- git clone https://github.com/Web-IV/2324-webservices-DavidDeRidder7.git
-- cd .\2324-webservices-DavidDeRidder7\
+- git clone https://github.com/DavidDeRidder1/webshop-kotstudenten-backend
+- cd .\webshop-kotstudenten-backend\
 - npm install
 - .env aanmaken:
   - NODE_ENV=development
